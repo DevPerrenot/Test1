@@ -1,9 +1,9 @@
-# Test1 - FizzBuzz
+# Test1 - 
 
 Faire une fonction dans n'importe quel language.
 
 
-Pour les nombres entre 1 et 20 :
+Avec les nombres de 1 à 20 :
 
 
 _ si le nombre est divisible par 3 : on écrit Fizz
