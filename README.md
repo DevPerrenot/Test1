@@ -1,9 +1,9 @@
 # Test1 - 
 
-Faire une fonction dans n'importe quel language.
+Faire un code dans n'importe quel language.
 
 
-Afficher les nombres de 1 à 20 :  
+Afficher les nombres entre 1 et 100 :  
 
 * si le nombre est divisible par 3 : on écrit Fizz  
 * si le nombre est divisible par 5 : on écrit Buzz  
